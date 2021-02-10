@@ -1,6 +1,6 @@
 ## Building R Project - Kiko Siqueira
 
-This R package is the Week 4 final assignment for the "Building R Packages" 
+This R package is for the final assignment of "Building R Packages" 
 
 Date: Feb 10 2021
 
