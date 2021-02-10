@@ -1,4 +1,4 @@
-## Build R Project - Kiko Siqueira
+## Building R Project - Kiko Siqueira
 
 This R package is the Week 4 final assignment for the "Building R Packages" 
 
