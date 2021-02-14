@@ -20,7 +20,7 @@ You can read the vignette introduction, see the folders for more information.
 
 ### Travis Badge
 
-[![Build Status](https://travis-ci.org/kikosikera/BRPack/faris/.svg?branch=master)](https://travis-ci.org/kikosikera/BRPack/faris/)
+[![Build Status](https://travis-ci.org/kikosikera/BRPack/faris.svg?branch=master)](https://travis-ci.org/kikosikera/BRPack/faris)
 
 
 
