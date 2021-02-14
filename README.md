@@ -9,7 +9,7 @@ Date: Feb 10 2021
 To install this package to run on your system, please first install and load the `devtools` package. Then you may install and load this package:
 
 ```R
-install_github('kikosikera/BRPack/faris',build_vignettes = TRUE)
+install_github('kikosikera/BRPack',build_vignettes = TRUE)
 library(faris)
 ```
 
