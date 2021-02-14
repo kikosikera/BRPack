@@ -15,7 +15,12 @@ library(faris)
 
 ### Vignette
 
-You can read the vignette introduction, see the folders for more information. 
+You can read the vignette introduction, see the folders for more information.
+
+
+### Travis Badge
+
+[![Build Status](https://travis-ci.org/sbudiman/brpextravis.svg?branch=master)](https://travis-ci.org/sbudiman/brpextravis)
 
 
 
