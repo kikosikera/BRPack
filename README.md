@@ -20,6 +20,6 @@ You can read the vignette introduction, see the folders for more information.
 
 ### Travis Badge
 
-[![Build Status](https://travis-ci.org/kikosikera/BRPack.svg?branch=master)](https://travis-ci.org/kikosikera/BRPack)
+[![Build Status](https://raw.githubusercontent.com/kikosikera/kikosikera.github.io/856f1d414b7057672b78ddc141cb79c30bab6ece/travis-ci.org/badge/BRPack.svg)](https://kikosikera.github.io/travis-ci.org/)
 
 
